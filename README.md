@@ -1,2 +1,2 @@
-# angular-component-communication-tutorial
-Angular sample project for angular component communication
+# Angular Component Communication Tutorial
+Angular sample project for angular component communication.
